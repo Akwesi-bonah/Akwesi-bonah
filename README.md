@@ -3,7 +3,7 @@
 # Hi I'm Akwesi-Bonah 👋
 
 
-### I am a Software Engineering student at ALX, Data Analysis at m `I learn by doing....`
+### I am a Software Engineering student at ALX, Data Analysis at [mooc.fi](https://courses.mooc.fi/org/uh-cs/courses/dap-22)  `I learn by doing....`
 - 🔭 I’m currently working on coding skills.
 - 🌱 I’m currently learning Back-end  development with python
 - 👯 I’m open to collaborate on Software Engineering projects..
