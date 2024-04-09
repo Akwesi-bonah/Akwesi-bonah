@@ -18,7 +18,7 @@
 # 📫 How to reach me
 
 * [LinkedIn](https://www.linkedin.com/in/george-arhin-bonnah-5330b925a)
-* [Twitter](https://twitter.com/Nightwolfjnr)
+* [Twitter](https://twitter.com/AkwesiBona)
 * [Email](mailto:messagearhinbonnah@gmail.com)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akwesi-bonah&show_icons=true&theme=radical)
