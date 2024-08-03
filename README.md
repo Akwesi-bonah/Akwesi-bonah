@@ -12,6 +12,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akwesi-bonah&layout=compact)](https://github.com/Akwesi-bonah/github-readme-stats)
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Akwesi-bonah" alt="Akwesi-bonah" /></a> </p>
 
 <br>
 
